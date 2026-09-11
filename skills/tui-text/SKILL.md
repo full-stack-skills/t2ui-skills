@@ -1,5 +1,6 @@
 ---
 name: tui-text
+license: Apache-2.0
 description: Generate pixel-precise ASCII TUI for Text u-text with strict output blocks TUI_RENDER COMPONENT_SPEC PENCIL_SPEC PENCIL_BATCH_DESIGN suitable for Pencil MCP drawing workflows.
 ---
 

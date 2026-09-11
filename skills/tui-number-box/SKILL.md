@@ -1,5 +1,6 @@
 ---
 name: tui-number-box
+license: Apache-2.0
 description: Generate pixel-precise ASCII TUI for Number Box u-number-box with strict output blocks TUI_RENDER COMPONENT_SPEC PENCIL_SPEC PENCIL_BATCH_DESIGN suitable for Pencil MCP drawing workflows.
 ---
 

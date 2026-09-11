@@ -1,5 +1,6 @@
 ---
 name: tui-install
+license: Apache-2.0
 description: Generate pixel-precise ASCII TUI for Install (u-install) with strict output blocks (TUI_RENDER, COMPONENT_SPEC, PENCIL_SPEC, PENCIL_BATCH_DESIGN) suitable for Pencil MCP drawing workflows.
 ---
 

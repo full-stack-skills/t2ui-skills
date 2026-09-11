@@ -1,5 +1,6 @@
 ---
 name: tui-page-composer
+license: Apache-2.0
 description: Compose multiple ASCII TUI components into a full page with a consolidated layout summary and Pencil MCP–ready batch_design plans, including validation steps via snapshot_layout and get_screenshot.
 ---
 

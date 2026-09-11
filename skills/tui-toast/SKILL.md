@@ -1,5 +1,6 @@
 ---
 name: tui-toast
+license: Apache-2.0
 description: Generate pixel-precise ASCII TUI for Toast u-toast with strict output blocks TUI_RENDER COMPONENT_SPEC PENCIL_SPEC PENCIL_BATCH_DESIGN suitable for Pencil MCP drawing workflows.
 ---
 

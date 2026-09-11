@@ -1,5 +1,6 @@
 ---
 name: tui-front-ui
+license: Apache-2.0
 description: Define strict, example-rich rules for generating pixel-precise ASCII Text UI (TUI) with layout attributes (top/left/width/height/colors/typography) and Pencil MCP–ready specs + batch_design operation plans.
 ---
 

@@ -1,5 +1,6 @@
 ---
 name: tui-prd-to-descriptions
+license: Apache-2.0
 description: From PRD interface/screen descriptions, output ASCII UI (for PRD supplement), Stitch-executable prompt (for stitch-skills), and Pencil-executable plan (for pencil-skills). Does not call Stitch or Pencil MCP.
 ---
 
