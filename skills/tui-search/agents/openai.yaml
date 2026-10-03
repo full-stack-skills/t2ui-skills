@@ -1,0 +1,4 @@
+interface:
+  display_name: "TUI Search"
+  short_description: "生成 Search 组件的 ASCII 界面及 Pencil 布局规格"
+  default_prompt: "使用 $tui-search，围绕“生成 Search 组件的 ASCII 界面及 Pencil 布局规格”处理我的当前需求。"

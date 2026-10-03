@@ -1,0 +1,4 @@
+interface:
+  display_name: "TUI Pagination"
+  short_description: "生成 Pagination 组件的 ASCII 界面及 Pencil 布局规格"
+  default_prompt: "使用 $tui-pagination，围绕“生成 Pagination 组件的 ASCII 界面及 Pencil 布局规格”处理我的当前需求。"
